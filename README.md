@@ -1,2 +1,0 @@
-# twibbon
-aplikasi mirip twibbon
